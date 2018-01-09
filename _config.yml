@@ -1,0 +1,8 @@
+title: Assimp
+description: "Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure. "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
